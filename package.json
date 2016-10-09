@@ -1,0 +1,13 @@
+{
+  "name": "Scrapping",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+      "cheerio": "latest",
+    "x-ray": "latest",
+    "mysql": "latest"
+  }
+}
