@@ -6,8 +6,9 @@
     "start": "node app.js"
   },
   "dependencies": {
-      "cheerio": "latest",
+    "cheerio": "latest",
     "x-ray": "latest",
+    "moment": "latest",
     "mysql": "latest"
   }
 }
